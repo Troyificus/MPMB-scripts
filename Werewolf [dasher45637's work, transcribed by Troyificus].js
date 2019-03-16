@@ -14,7 +14,7 @@ SourceList["WH:D&DB"] = {
 	abbreviation : "WH:D&DB",
 	group : "D&D Beyond",
 	url : "https://www.dndbeyond.com/characters/races/10435-werewolf/",
-	date : "2019/01/18"
+	date : "2019/03/16"
 };
 
 
