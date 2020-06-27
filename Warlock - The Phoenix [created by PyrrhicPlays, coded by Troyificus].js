@@ -11,7 +11,7 @@
 	Effect:		This script adds a subclass for the Warlock, called "The Phoenix"
 				This subclass was made by PyrrhicPlays (https://www.dndbeyond.com/subclasses/218506-the-phoenix)
 	Code by:	Troyificus
-	Date:		2020-06-26 (sheet v12.999)
+	Date:		2020-06-26 (sheet v13)
 */
 
 var iFileName = "Warlock - The Phoenix [created by PyrrhicPlays, coded by Troyificus].js";
